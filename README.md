@@ -1,3 +1,3 @@
- Checkpoint 1 Git Fundamentals
+# Checkpoint 1 Git Fundamentals
 This is my feature branch
-Project status : Ready
+Project status : Completed and Reviewed
